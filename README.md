@@ -1,6 +1,6 @@
 # check-empty-collection-c#
 
-This is for Blue Prism Code Stage.
+This is for Blue Prism Global Code.
 
 The CheckCollectionEmpty class is defined, which contains a shared function named IsCollectionEmpty.  
 The IsCollectionEmpty function takes a DataTable object as its argument and returns a Boolean value indicating whether the table is empty or not.  
