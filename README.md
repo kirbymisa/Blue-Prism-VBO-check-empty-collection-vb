@@ -1,4 +1,4 @@
-# check-empty-collection-c#
+# check-empty-collection-vb
 
 This is for Blue Prism Global Code.
 External Reference:
